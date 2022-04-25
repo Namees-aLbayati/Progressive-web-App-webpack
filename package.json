@@ -1,0 +1,27 @@
+{
+  "name": "progressive-web-app-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "start":"webpack-dev-server"
+,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namees-github/Progressive-web-App-webpack.git"
+  },
+  "author": "namees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namees-github/Progressive-web-App-webpack/issues"
+  },
+  "homepage": "https://github.com/namees-github/Progressive-web-App-webpack#readme",
+  "dependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.8.1"
+  }
+}
